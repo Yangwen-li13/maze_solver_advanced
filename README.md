@@ -1,2 +1,3 @@
 # maze_solver_advanced
-Making tutorial for an advanced maze solver robot
+Guide for making an advance maze solver robot.
+To understand process, read the Guide.pdf.
